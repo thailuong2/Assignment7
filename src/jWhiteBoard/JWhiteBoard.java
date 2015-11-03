@@ -25,7 +25,7 @@ import java.util.List;
  * 
  * 
  */
-
+/sadasdadasdd
 public class JWhiteBoard extends ReceiverAdapter implements ActionListener, ChannelListener {
     protected String               groupName="";
     private JChannel               channel=null;
